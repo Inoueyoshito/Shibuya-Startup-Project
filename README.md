@@ -1,1 +1,11 @@
-# SSU_DemoStartupProject
+
+
+「Sibuya Startup University 9月から参加」
+
+今回は・３人でデモ起業
+メンバーは、現在楽天でエンジニアの方
+大手デザイナー企業の方と共に活動
+
+「楽々に書類作成!」
+を掲げ、まずは渋谷の申請書類などをPDF化するPythonプログラムを作成
+
